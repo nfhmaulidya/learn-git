@@ -5,3 +5,5 @@ ini baris 2 workshop 1
 
 berubah
 lidya berubah
+
+lidya
